@@ -18,8 +18,8 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 
 | Agent | Repo | PR | Status | Title |
 |---|---|---|---|---|
-| glm-workers | agent-collab | [#271](https://github.com/galan-projects/agent-collab/pull/271) | open | feat(jira-sync): sync-based PR<->DEVOS ticket linking (DEVOS |
-| unattributed | agent-collab | [#270](https://github.com/galan-projects/agent-collab/pull/270) | open | fix(DEV-111): hermes-agent.mmd renders on GitHub (header com |
+| glm-workers | agent-collab | [#271](https://github.com/galan-projects/agent-collab/pull/271) | merged | feat(jira-sync): sync-based PR<->DEVOS ticket linking (DEVOS |
+| unattributed | agent-collab | [#270](https://github.com/galan-projects/agent-collab/pull/270) | merged | fix(DEV-111): hermes-agent.mmd renders on GitHub (header com |
 | supervisor | agent-collab | [#269](https://github.com/galan-projects/agent-collab/pull/269) | merged | feat(graphs): auto-generate hermes-agent.mmd from topology o |
 | unattributed | agent-collab | [#268](https://github.com/galan-projects/agent-collab/pull/268) | merged | feat(graph): gpu_job node — batch GPU runtime as a graph nod |
 | glm-workers | agent-collab | [#267](https://github.com/galan-projects/agent-collab/pull/267) | merged | feat(graph-v2.2): org layer — controllers between supervisor |
@@ -59,4 +59,4 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 | unattributed | agent-collab | [#233](https://github.com/galan-projects/agent-collab/pull/233) | merged | docs: Hermes migration plan — Mac → neovm (API-first) |
 | kimi-workers | agent-collab | [#232](https://github.com/galan-projects/agent-collab/pull/232) | closed | docs(research): Devin x Hermes integration — final report +  |
 
-_last updated: 2026-08-25 20:32 (UTC)_
+_last updated: 2026-08-25 21:32 (UTC)_
