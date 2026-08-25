@@ -59,4 +59,4 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 | unattributed | agent-collab | [#233](https://github.com/galan-projects/agent-collab/pull/233) | merged | docs: Hermes migration plan — Mac → neovm (API-first) |
 | kimi-workers | agent-collab | [#232](https://github.com/galan-projects/agent-collab/pull/232) | closed | docs(research): Devin x Hermes integration — final report +  |
 
-_last updated: 2026-08-25 22:33 (UTC)_
+_last updated: 2026-08-25 23:34 (UTC)_
