@@ -18,7 +18,7 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 
 | Agent | Repo | PR | Status | Title |
 |---|---|---|---|---|
-| supervisor | agent-collab | [#273](https://github.com/galan-projects/agent-collab/pull/273) | open | docs(rsi): G1b+G8 execution results on vms cluster (F12, F13 |
+| supervisor | agent-collab | [#273](https://github.com/galan-projects/agent-collab/pull/273) | merged | docs(rsi): G1b+G8 execution results on vms cluster (F12, F13 |
 | kimi-workers | agent-collab | [#272](https://github.com/galan-projects/agent-collab/pull/272) | merged | feat(rsi): restart scenario scripts G1b, G3, G6a, G8 |
 | glm-workers | agent-collab | [#271](https://github.com/galan-projects/agent-collab/pull/271) | merged | feat(jira-sync): sync-based PR<->DEVOS ticket linking (DEVOS |
 | unattributed | agent-collab | [#270](https://github.com/galan-projects/agent-collab/pull/270) | merged | fix(DEV-111): hermes-agent.mmd renders on GitHub (header com |
@@ -59,4 +59,4 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 | unattributed | agent-collab | [#235](https://github.com/galan-projects/agent-collab/pull/235) | open | docs(rsi): RSI v2 architecture diagram + post-merge re-valid |
 | glm-workers | agent-collab | [#234](https://github.com/galan-projects/agent-collab/pull/234) | merged | archive: move legacy GitHub Issues pollers to archive/ |
 
-_last updated: 2026-08-26 07:40 (UTC)_
+_last updated: 2026-08-26 08:40 (UTC)_
