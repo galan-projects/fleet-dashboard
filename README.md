@@ -59,4 +59,4 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 | unattributed | agent-collab | [#235](https://github.com/galan-projects/agent-collab/pull/235) | open | docs(rsi): RSI v2 architecture diagram + post-merge re-valid |
 | glm-workers | agent-collab | [#234](https://github.com/galan-projects/agent-collab/pull/234) | merged | archive: move legacy GitHub Issues pollers to archive/ |
 
-_last updated: 2026-08-26 09:41 (UTC)_
+_last updated: 2026-08-26 10:42 (UTC)_
