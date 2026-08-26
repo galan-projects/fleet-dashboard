@@ -8,16 +8,18 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 
 | Agent | PRs |
 |---|---|
-| unattributed | 409 |
-| glm-workers | 31 |
-| kimi-workers | 25 |
+| unattributed | 408 |
+| glm-workers | 30 |
+| kimi-workers | 26 |
 | david-sds | 18 |
-| supervisor | 17 |
+| supervisor | 18 |
 
 ## Recent PRs (last 40)
 
 | Agent | Repo | PR | Status | Title |
 |---|---|---|---|---|
+| supervisor | agent-collab | [#273](https://github.com/galan-projects/agent-collab/pull/273) | open | docs(rsi): G1b+G8 execution results on vms cluster (F12, F13 |
+| kimi-workers | agent-collab | [#272](https://github.com/galan-projects/agent-collab/pull/272) | merged | feat(rsi): restart scenario scripts G1b, G3, G6a, G8 |
 | glm-workers | agent-collab | [#271](https://github.com/galan-projects/agent-collab/pull/271) | merged | feat(jira-sync): sync-based PR<->DEVOS ticket linking (DEVOS |
 | unattributed | agent-collab | [#270](https://github.com/galan-projects/agent-collab/pull/270) | merged | fix(DEV-111): hermes-agent.mmd renders on GitHub (header com |
 | supervisor | agent-collab | [#269](https://github.com/galan-projects/agent-collab/pull/269) | merged | feat(graphs): auto-generate hermes-agent.mmd from topology o |
@@ -56,7 +58,5 @@ priority: PR body `agent: <name>` marker > hermes task assignee
 | glm-workers | agent-collab | [#236](https://github.com/galan-projects/agent-collab/pull/236) | merged | feat: Hermes Kanban health agent loop |
 | unattributed | agent-collab | [#235](https://github.com/galan-projects/agent-collab/pull/235) | open | docs(rsi): RSI v2 architecture diagram + post-merge re-valid |
 | glm-workers | agent-collab | [#234](https://github.com/galan-projects/agent-collab/pull/234) | merged | archive: move legacy GitHub Issues pollers to archive/ |
-| unattributed | agent-collab | [#233](https://github.com/galan-projects/agent-collab/pull/233) | merged | docs: Hermes migration plan — Mac → neovm (API-first) |
-| kimi-workers | agent-collab | [#232](https://github.com/galan-projects/agent-collab/pull/232) | closed | docs(research): Devin x Hermes integration — final report +  |
 
-_last updated: 2026-08-26 06:39 (UTC)_
+_last updated: 2026-08-26 07:40 (UTC)_
